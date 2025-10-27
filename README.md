@@ -21,6 +21,8 @@ You can use them, you can add your shaders via pull request
 
 ### Wave Vertex Shader (with foam)
 
+### Dot Matrix Shader
+
 
 ## Unlit Shaders
 ### Balatro background Shader
@@ -32,3 +34,7 @@ You can use them, you can add your shaders via pull request
 ### Grey scale Shader
 
 ### Outline Shader
+
+
+## TOBEFIXED shaders
+    1. Outline per object shader
