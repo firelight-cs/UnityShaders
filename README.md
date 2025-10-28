@@ -31,6 +31,13 @@ You can use them, you can add your shaders via pull request
 ### Dot Matrix Shader
 ![Movie017](https://github.com/user-attachments/assets/e634b37f-0c7c-4bfe-9de8-e34460c679b3)
 
+### Intersection Occlusion
+
+
+### Glowing Intersection
+
+
+
 
 
 ## Unlit Shaders
@@ -41,10 +48,16 @@ You can use them, you can add your shaders via pull request
 ![Movie022](https://github.com/user-attachments/assets/c79b6078-88d5-4ccb-b625-0e8fe9cd4c17)
 
 
-### Z-buffer Shader
+### Portal Shader
+![Movie023](https://github.com/user-attachments/assets/272bf830-745d-4a75-873b-4171ff4f1d2a)
+
+
+### Halftone Shader
+![Movie024](https://github.com/user-attachments/assets/c9f38d41-1dcb-41b8-84f2-ea49f5aa3a58)
 
 
 ## Fullscreen Shaders 
+
 ### Grey scale Shader
 
 ### Outline Shader
