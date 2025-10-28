@@ -6,6 +6,7 @@ You can use them, you can add your shaders via pull request
 
 ## Lit Shaders
 ### Alpha Threshold
+![Movie018](https://github.com/user-attachments/assets/f34823bf-33f2-43e5-a5cb-6b4a4bc81f20)
 
 ### Dissolve Shader
 ![Movie012](https://github.com/user-attachments/assets/3c25abb4-0050-4841-a045-ee3e1011e2b6)
@@ -19,18 +20,24 @@ You can use them, you can add your shaders via pull request
 ![Movie013](https://github.com/user-attachments/assets/95aeb953-59c5-4814-9d2a-f3f6646ea307)
 
 
-### Fresnel Shader
 
 ### Silhouette Shader
+![Movie016](https://github.com/user-attachments/assets/9ec8144d-7b45-47df-a072-d6d8b585479e)
+
 
 ### Wave Vertex Shader
 
 ### Wave Vertex Shader (with foam)
 
 ### Dot Matrix Shader
+![Movie017](https://github.com/user-attachments/assets/e634b37f-0c7c-4bfe-9de8-e34460c679b3)
+
 
 
 ## Unlit Shaders
+### Fresnel Shader
+![Movie014](https://github.com/user-attachments/assets/19c9cf95-6b91-43f4-81bc-8d49002db847)
+
 ### Balatro background Shader
 
 ### Z-buffer Shader
