@@ -63,9 +63,16 @@ You can use them, you can add your shaders via pull request
 
 ## Fullscreen Shaders 
 ### Grey scale Shader
+![Movie033](https://github.com/user-attachments/assets/eeccc9c7-7489-41ba-803d-ef83ccfecb3c)
 
 
 ### Outline Shader
+![Movie034](https://github.com/user-attachments/assets/829633de-29dc-42ae-9b8a-3f4ac688f4ec)
+
+
+### Outline + Halftone (mix)
+![Movie036](https://github.com/user-attachments/assets/2fa5a6a8-4977-4454-b213-82ae4b07849a)
+
 
 
 ## TOBEFIXED shaders
