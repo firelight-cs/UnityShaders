@@ -8,12 +8,16 @@ You can use them, you can add your shaders via pull request
 ### Alpha Threshold
 
 ### Dissolve Shader
+![Movie012](https://github.com/user-attachments/assets/3c25abb4-0050-4841-a045-ee3e1011e2b6)
+
 
 ### Cel Shader
 ![Movie009](https://github.com/user-attachments/assets/7531df0e-f6e2-44f1-ab98-6521a892ed7c)
 
 
 ### Dithering Shader
+![Movie013](https://github.com/user-attachments/assets/95aeb953-59c5-4814-9d2a-f3f6646ea307)
+
 
 ### Fresnel Shader
 
