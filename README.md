@@ -24,6 +24,10 @@ You can use them, you can add your shaders via pull request
 ![Movie016](https://github.com/user-attachments/assets/9ec8144d-7b45-47df-a072-d6d8b585479e)
 
 
+### Halftone Shader
+![Movie024](https://github.com/user-attachments/assets/c9f38d41-1dcb-41b8-84f2-ea49f5aa3a58)
+
+
 ### Wave Vertex Shader (with foam)
 ![Movie020](https://github.com/user-attachments/assets/456287b4-6196-475b-b6b3-e71a8a2449cd)
 
@@ -31,10 +35,12 @@ You can use them, you can add your shaders via pull request
 ### Dot Matrix Shader
 ![Movie017](https://github.com/user-attachments/assets/e634b37f-0c7c-4bfe-9de8-e34460c679b3)
 
-### Intersection Occlusion
+### Intersection Occlusion (Ambient Occlusion)
+![Movie026](https://github.com/user-attachments/assets/046d99be-9683-47c1-ac99-f9cf0d8fc35f)
 
 
 ### Glowing Intersection
+![Movie032](https://github.com/user-attachments/assets/f064fec1-b227-48a5-8cbd-20d3ef2b8416)
 
 
 
@@ -44,6 +50,7 @@ You can use them, you can add your shaders via pull request
 ### Fresnel Shader
 ![Movie014](https://github.com/user-attachments/assets/19c9cf95-6b91-43f4-81bc-8d49002db847)
 
+
 ### Balatro background Shader
 ![Movie022](https://github.com/user-attachments/assets/c79b6078-88d5-4ccb-b625-0e8fe9cd4c17)
 
@@ -52,13 +59,11 @@ You can use them, you can add your shaders via pull request
 ![Movie023](https://github.com/user-attachments/assets/272bf830-745d-4a75-873b-4171ff4f1d2a)
 
 
-### Halftone Shader
-![Movie024](https://github.com/user-attachments/assets/c9f38d41-1dcb-41b8-84f2-ea49f5aa3a58)
 
 
 ## Fullscreen Shaders 
-
 ### Grey scale Shader
+
 
 ### Outline Shader
 
