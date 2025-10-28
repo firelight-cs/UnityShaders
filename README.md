@@ -20,14 +20,13 @@ You can use them, you can add your shaders via pull request
 ![Movie013](https://github.com/user-attachments/assets/95aeb953-59c5-4814-9d2a-f3f6646ea307)
 
 
-
 ### Silhouette Shader
 ![Movie016](https://github.com/user-attachments/assets/9ec8144d-7b45-47df-a072-d6d8b585479e)
 
 
-### Wave Vertex Shader
-
 ### Wave Vertex Shader (with foam)
+![Movie020](https://github.com/user-attachments/assets/456287b4-6196-475b-b6b3-e71a8a2449cd)
+
 
 ### Dot Matrix Shader
 ![Movie017](https://github.com/user-attachments/assets/e634b37f-0c7c-4bfe-9de8-e34460c679b3)
@@ -39,6 +38,8 @@ You can use them, you can add your shaders via pull request
 ![Movie014](https://github.com/user-attachments/assets/19c9cf95-6b91-43f4-81bc-8d49002db847)
 
 ### Balatro background Shader
+![Movie022](https://github.com/user-attachments/assets/c79b6078-88d5-4ccb-b625-0e8fe9cd4c17)
+
 
 ### Z-buffer Shader
 
