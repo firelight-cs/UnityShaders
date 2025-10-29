@@ -128,11 +128,13 @@ Halftone applied to objects, outline applied to render pass
 ---
 
 ### Dithering
+![Movie038](https://github.com/user-attachments/assets/92447289-595b-4aa3-b5c7-b2571539cb50)
 
 
 ---
 
 ### Dithering 1-bit
+![Movie037](https://github.com/user-attachments/assets/699324d0-ab30-4036-939b-2b4c18431d5f)
 
 
 
