@@ -127,5 +127,16 @@ Halftone applied to objects, outline applied to render pass
 
 ---
 
+### Dithering
+
+
+---
+
+### Dithering 1-bit
+
+
+
+---
+
 ## TOBEFIXED shaders
     1. Outline per object shader
