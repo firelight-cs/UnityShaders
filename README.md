@@ -9,6 +9,8 @@
 > * In Unity you need to apply `.shadergraph` to material and this material apply to object to see shader
 >
 > * Some shaders depend on light in scene (Lit) and some shaders not (Unlit). There are shaders that can be applied to your render pass in render pipeline as a render feature (Fullscreen shaders)
+>
+> * Some shaders require subgraphs, you can find them in `/Bubgraphs` directory
 
 
 -----------
