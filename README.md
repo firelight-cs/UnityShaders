@@ -140,18 +140,21 @@ Halftone applied to objects, outline applied to render pass
 
 
 ### Obra-Dinn dithering
-
+    * To be added
 
 ### Blackhole shader (aka Outer Wilds)
-
+    * Currently working on the URP version using only ShaderGraph nodes
+    Can be easily implemented using custom function to calculate sphere raycast
+    Basically, displays the background on the sphere's UV with some distortion strength. So it depends on sphere's UV and amount of polygons. Recommend to use sphere with at least >10.000 polygons and flipped normals. Also make sure to render opaque textures first in your render settings (e.g. PC_Render)
 
 ### Skybox shader (procedural)
-
+    * To be updated
 
 ---
 
 ## TOBEFIXED shaders
     1. Outline per object shader
+    2. Blackhole shader can be updated to emulate outer wilds blackhole effects (such as mirroring)
 
 ## TOBEADDED
     1. .unitypackage file format to import all shaders
