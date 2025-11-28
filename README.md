@@ -139,8 +139,21 @@ Halftone applied to objects, outline applied to render pass
 ![Movie037](https://github.com/user-attachments/assets/699324d0-ab30-4036-939b-2b4c18431d5f)
 
 
+### Obra-Dinn dithering
+
+
+### Blackhole shader (aka Outer Wilds)
+
+
+### Skybox shader (procedural)
+
 
 ---
 
 ## TOBEFIXED shaders
     1. Outline per object shader
+
+## TOBEADDED
+    1. .unitypackage file format to import all shaders
+    2. material instance for each shader
+    3. proper README
